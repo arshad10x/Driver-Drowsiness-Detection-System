@@ -12,6 +12,11 @@ This can be used by drivers who tend to drive for a longer period of time that m
 The code will run in Python (Version 2.7 or higher).
 
 
+**Model**
+
+RaspberryPi3 B+ Model is used in this project
+
+
 **Dependencies**
 
 1.import face_recognition       
